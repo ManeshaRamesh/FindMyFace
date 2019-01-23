@@ -60,10 +60,16 @@ def main():
 		#terminating message
 		print("Done!")
 		print("Thank you! Bye!:)")
+		print("\n")
+		print("Contact Manesha Ramesh at manesharamesh@gmail.com for any feedback! :)")
+		print("<3<3<3")
 
 	except KeyboardInterrupt:
 		# when program is interrupted
 		print ("Program Terminated")
 		print ("Bye :(")
+		print("\n")
+		print("Contact Manesha Ramesh at manesharamesh@gmail.com for any feedback! :)")
+		print("<3<3<3")
 
 main()
